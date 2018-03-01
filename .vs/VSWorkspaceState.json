@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Controllers",
+    "\\Models",
+    "\\Properties",
+    "\\Views",
+    "\\Views\\Produto",
+    "\\Views\\Shared",
+    "\\Views\\Usuario"
+  ],
+  "SelectedNode": "\\Controllers\\ProdutoController.cs",
+  "PreviewInSolutionExplorer": false
+}
